@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Developers and Lawyers: Are They That Different?"
-date:       2020-03-26 07:06:50 +0000
+date:       2020-03-26 03:06:51 -0400
 permalink:  developers_and_lawyers_are_they_that_different
 ---
 
@@ -12,7 +12,7 @@ During my three-year-long legal career, I met a surprisingly high number of lawy
 
 I started studying web development last year, alongside my job for a while and then full time. Over time, it became increasingly clear to me that the above idea is a false belief and that legal thinking is not that far from development. For some reason, many lawyers still consider the legal profession as one defined by factual knowledge and communication skills. They underestimate or forget about logic, analytical problem-solving, structural thinking and the ability to work with abstractions and dependencies as if they don’t form an integral part of legal practice. At the same time, in my opinion, these are the top skills that characterize a good lawyer, just as they describe a good developer.
 
-In his great book, the* Legal Writing In Plain English*, Bryan A. Garner provides one of the simplest, and yet most powerful ideas of what stages should characterize high-quality legal writing. According to Garner, four different personas should work on each legal document, one after the other, separately, building on the work of the previous one but without taking over anyone’s job. The four personas are the *madman*, the *architect*, the *carpenter*, and the *judge*.
+In his great book, the *Legal Writing In Plain English*, Bryan A. Garner provides one of the simplest, and yet most powerful ideas of what stages should characterize high-quality legal writing. According to Garner, four different personas should work on each legal document, one after the other, separately, building on the work of the previous one but without taking over anyone’s job. The four personas are the *madman*, the *architect*, the *carpenter*, and the *judge*.
 
 Simply put, in legal writing it means that (i) the *Madman* thinks of the things you want to say, as many and as quickly as possible (ii) the *Architect* sets up a logical sequence of these thoughts and breaks them down into smaller thoughts (iii) the *Carpenter* prepares the draft based on the above (iv) finally, the *Judge* returns and edits the draft after a while. In my view, *this problem-solving process is basically the same as what coding schools or tech books and articles teach us about addressing coding issues*. 
 
