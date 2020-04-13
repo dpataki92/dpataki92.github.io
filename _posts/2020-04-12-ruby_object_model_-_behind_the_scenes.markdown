@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby Object Model - Behind The Scenes"
-date:       2020-04-13 02:18:20 +0000
+date:       2020-04-12 22:18:21 -0400
 permalink:  ruby_object_model_-_behind_the_scenes
 ---
 
